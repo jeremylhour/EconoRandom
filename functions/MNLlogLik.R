@@ -13,7 +13,7 @@
 
 MNLlogLik <- function(param,y,X){
   # Compute choice probabilities
-  C <- sum(exp(as.matrix(X)%*%param))+1
+  C <- 1+sum(exp(as.matrix(X)%*%param))
   lprob <- as.matrix(X)%*%param - log(C)
   lprob <- as.vector(lprob)
   
