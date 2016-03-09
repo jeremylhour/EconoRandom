@@ -11,16 +11,36 @@ library("MASS")
 library("ggplot2")
 library("gridExtra")
 
-### Load user-defined functions
-source("functions/DataSim.R") 
 
-data <- DataSim(n=1000,p=10, Scenario="S", s=4)
-X <- data$X
-y <- data$y
-d <- data$d
-n <- nrow(X)
-p <- ncol(X)
-X <- as.matrix(X)
+### Simulated data
+p <- 10
+n <- 1000
+### Covariate correlation coefficients
+rho <- .5
+Sigma <- matrix(0,nrow=p, ncol=p)
+
+for(k in 1:p){
+  for(j in 1:p){
+    Sigma[k,j] <- rho^abs(k-j)
+  }
+}
+
+# Simulate covariates
+X <- mvrnorm(n = n, mu=rep(0,p), Sigma)
+
+# Coefficients
+gamma <- rep(0,p)
+
+for(j in 1:abs(p/2)){
+  gamma[j] <- 1*(-1)^(j) / j^2
+}
+
+
+# Simulate covariates
+X <- mvrnorm(n = n, mu=rep(0,p), Sigma)
+
+# Simulate outcome
+y <- X%*%gamma + rnorm(n)
 
 b_MCO <- solve(t(X)%*%X) %*% (t(X)%*%y)
 eps <- y-X%*%b_MCO
