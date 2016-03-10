@@ -2,6 +2,9 @@
 ### Jeremy L Hour
 ### 7 mars 2016
 
+### Fait reference a l exercice 2 du TD 6
+### sur le choix d autmobiles
+
 ### Set working directory
 setwd("//ulysse/users/JL.HOUR/1A_These/EconoRandom")
 
@@ -10,7 +13,7 @@ rm(list=ls())
 
 ### 0. Settings
 ### Load packages
-library(maxLik)
+library("maxLik")
 
 ### Load user-defined functions
 source("functions/MNLlogLik.R")
@@ -41,9 +44,8 @@ print(marketshare)
 
 ### 2. ML Estimation
 par0 <- rep(0,p+1)
-MNLfit <- maxBFGS(MNLlogLik, start=par0, print.level=4, finalHessian=T, y=y, X=cbind(rep(1,J),mtcars) )
-summary(MNLfit)
-
+MLfit <- maxBFGS(MNLlogLik, start=par0, print.level=4, finalHessian=T, y=y, X=cbind(rep(1,J),mtcars) )
+summary(MLfit)
 
 ### 3. Regression on relative market shares
 s <- as.vector(table(y)/n)
@@ -54,7 +56,7 @@ summary(Regfit)
 
 
 ### Plot
-plot(beta,MNLfit$estimate[-1], pch=19, col="forestgreen",
+plot(beta,MLfit$estimate[-1], pch=19, col="forestgreen",
      xlab="True coefficients",
      ylab="Estimates",
      ylim=c(-.8,.8),
