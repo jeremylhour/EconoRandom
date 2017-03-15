@@ -10,14 +10,13 @@
 #' 
 #' @author Jeremy Lhour
 
-
 MNLlogLik <- function(param,y,X){
   # Compute choice probabilities
-  C <- 1+sum(exp(as.matrix(X)%*%param))
-  lprob <- as.matrix(X)%*%param - log(C)
-  lprob <- as.vector(lprob)
+  C = 1+sum(exp(as.matrix(X)%*%param))
+  lprob = as.matrix(X)%*%param - log(C)
+  lprob = as.vector(lprob)
   
   # Select contribution to likelihood
-  ll <- ifelse(y==0,-log(C),lprob[y])
+  ll = ifelse(y==0,-log(C),lprob[y])
   return(sum(ll))
 }
