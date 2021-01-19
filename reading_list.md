@@ -11,14 +11,14 @@ Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bas
 
 Même auteur que le précédent, mais plus avancé. Avec notamment un chapitre sur la programmation orientée objet, l'utilisation de git, les conventions d'écriture du code.
 
-## Statistical Learning / Machine Learning
+## Apprentissage statistique/automatique
 - 'The Elements of Statistical Learning' (2nd Edition, 2009) de Tibshirani et Hastie
 
 Manuel de référence pour toutes les approches de machine learning "traditionnelles". [Accessible gratuitement en ligne](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 - 'Pattern Recognition and Machine Learning' (2006) de Bishop
 
-## Deep Learning
+## Apprentissage profond
 - 'Deep Learning' (2016) de Goodfellow, Bengio et Courville
 
 Livre de référence sur l'approche Deep Learning, couvre beaucoup de sujets classiques mais aussi des sujets avancés et l'état de la recherche. [Accessible gratuitement en ligne](https://www.deeplearningbook.org/)
@@ -31,7 +31,7 @@ Très bon mode d'emploi pour s'assurer de ne pas faire n'importe quoi / debugger
 
 Réflexions utiles sur le fonctionnement des réseaux de neurones "en théorie". [Accessible en ligne](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
-## Natural Language Processing
+## Traitement du langage naturel
 - 'Speech and Language Processing' (3rd Edition, 2021?) de Jurasfky et Martin
 
 Manuel de référence sur le NLP. Couvre beaucoup de tâches importantes en analyse textuelle. [Version préliminaire accessible gratuitement en ligne](https://web.stanford.edu/~jurafsky/slp3/)
@@ -44,12 +44,12 @@ Ce cours couvre beaucoup de thèmes intéressants en NLP et propose des devoirs-
 
 [Accessible en ligne](https://ruder.io/deep-learning-nlp-best-practices/)
 
-## Statistiques Mathématiques
+## Statistiques mathématiques
 - 'All of Statistics' (2004) de Wasserman
 
 Référence "standard" pour les concepts classiques de statistique.
 
-## Econométrie / Inférence causale
+## Econométrie / inférence causale
 - 'Machine Learning Methods Economists Should Know About' (2019) d'Athey et Imbens
 
 Introduction à l'utilité des méthodes de ML en économétrie/économie empirique. S'adresse particulièrement aux économistes empiriques peu au courant des méthodes de ML. Mais offre également une perspective sur l'utilisation des méthodes de ML pour des tâches classiques en économétrie. [Accessible sur ArXiv](https://arxiv.org/abs/1903.10075)
@@ -71,7 +71,7 @@ Référence pour l'inférence causale.
 Poycopié du cours correspondant à Stanford. Couvre notamment les A/B tests, les bandits, etc.[Notes disponibles en ligne](https://statweb.stanford.edu/~owen/courses/363/)
 
 
-## Conception de projets Machine Learning / Data
+## Conception de projets machine learning / data
 - 'Building Machine Learning Powered Applications' (2020) d'Ameisen
 - 'Designing Data–Intensive Applications' (2016) de Kleppmann
 
