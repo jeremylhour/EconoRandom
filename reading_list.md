@@ -60,7 +60,7 @@ Polycopié du cours de 3A ENSAE, développe les thèmes du papier précédent. [
 
 - 'Econometric Analysis of Cross-Section and Panel Data' (2010) de Wooldridge
 
-Référence classique pour les concepts/modèles standards en économétrie.
+Référence classique pour les concepts / modèles standards en économétrie.
 
 - 'Causal Inference for Statistics, Social, and Biomedical Sciences' (2015) d'Imbens et Rubin
 
