@@ -11,7 +11,7 @@ Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bas
 
 Même auteur que le précédent, mais plus avancé. Avec notamment un chapitre sur la programmation orientée objet, l'utilisation de git, les conventions d'écriture du code.
 
-## Apprentissage statistique/automatique
+## Apprentissage statistique / automatique
 - 'The Elements of Statistical Learning' (2nd Edition, 2009) de Tibshirani et Hastie
 
 Manuel de référence pour toutes les approches de machine learning "traditionnelles". [Accessible gratuitement en ligne](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -36,7 +36,7 @@ Réflexions utiles sur le fonctionnement des réseaux de neurones "en théorie".
 
 Manuel de référence sur le NLP. Couvre beaucoup de tâches importantes en analyse textuelle. [Version préliminaire accessible gratuitement en ligne](https://web.stanford.edu/~jurafsky/slp3/)
 
-- 'Stanford CS 224N: Natural Language Processing with Deep Learning' (cours)
+- 'Stanford CS 224N : Natural Language Processing with Deep Learning' (cours)
  
 Ce cours couvre beaucoup de thèmes intéressants en NLP et propose des devoirs-maison à réaliser en python. [Cours accessible en ligne](http://web.stanford.edu/class/cs224n/)
 
@@ -68,7 +68,7 @@ Référence pour l'inférence causale.
 
 - 'A first course un experimental design' (2020) d'Owen
 
-Poycopié du cours correspondant à Stanford. Couvre notamment les A/B tests, les bandits, etc.[Notes disponibles en ligne](https://statweb.stanford.edu/~owen/courses/363/)
+Poycopié du cours correspondant à Stanford. Couvre notamment les A/B tests, les bandits, etc. [Notes disponibles en ligne](https://statweb.stanford.edu/~owen/courses/363/)
 
 
 ## Conception de projets machine learning / data
