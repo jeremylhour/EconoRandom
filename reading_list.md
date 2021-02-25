@@ -5,7 +5,7 @@ Cette liste a pour vocation d'offrir des points d'entrée dans les sous-domaines
 ## Python
 - 'Automate the boring stuff with python' (2nd Edition, 2019) de Sweigart
 
-Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible en ligne](https://automatetheboringstuff.com/)
+Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme traiter des images, scraper des données sur internet, envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible en ligne](https://automatetheboringstuff.com/)
 
 - 'Beyond the basic stuff with python' (2020) de Sweigart
 
@@ -25,7 +25,7 @@ Livre de référence sur l'approche Deep Learning, couvre beaucoup de sujets cla
 
 - 'A recipe for training neural network' (blog post, 2019) de Karpathy
 
-Très bon mode d'emploi pour s'assurer de ne pas faire n'importe quoi / debugger ses modèles. [Accessible en ligne](http://karpathy.github.io/2019/04/25/recipe/)
+Très bon mode d'emploi pour s'assurer de faire diminuer la perte, une complication à la fois / debugger ses modèles. [Accessible en ligne](http://karpathy.github.io/2019/04/25/recipe/)
 
 - 'Neural networks, manifolds and topology' (blog post, 2014) d'Olah
 
@@ -69,7 +69,6 @@ Référence pour l'inférence causale.
 - 'A first course un experimental design' (2020) d'Owen
 
 Poycopié du cours correspondant à Stanford. Couvre notamment les A/B tests, les bandits, etc. [Notes disponibles en ligne](https://statweb.stanford.edu/~owen/courses/363/)
-
 
 ## Conception de projets machine learning / data
 - 'Building Machine Learning Powered Applications' (2020) d'Ameisen
