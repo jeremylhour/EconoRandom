@@ -2,14 +2,16 @@
 
 Cette liste a pour vocation d'offrir des points d'entrée dans les sous-domaines en question. Elle regroupe principalement les manuels qui font référence, mais aussi des documents de recherche quand cela est approprié. 
 
+Auteur : Jérémy L'Hour, <jeremy.lhour@insee.fr>.
+
 ## Python
 - 'Automate the boring stuff with python' (2nd Edition, 2019) de Sweigart
 
-Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme traiter des images, scraper des données sur internet, envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible en ligne](https://automatetheboringstuff.com/)
+Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme traiter des images, gérer la lecture de fichier, gérer les tableurs, scraper des données sur internet, envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible gratuitement en ligne](https://automatetheboringstuff.com/)
 
 - 'Beyond the basic stuff with python' (2020) de Sweigart
 
-Même auteur que le précédent, mais plus avancé. Avec notamment un chapitre sur la programmation orientée objet, l'utilisation de git, les conventions d'écriture du code.
+Même auteur que le précédent, mais plus avancé. Avec notamment des chapitres sur la programmation orientée objet, l'utilisation de git, les conventions d'écriture du code, l'analyse de la complexité des algorithmes.
 
 ## Apprentissage statistique / automatique
 - 'The Elements of Statistical Learning' (2nd Edition, 2009) de Tibshirani et Hastie
@@ -25,7 +27,7 @@ Livre de référence sur l'approche Deep Learning, couvre beaucoup de sujets cla
 
 - 'A recipe for training neural network' (blog post, 2019) de Karpathy
 
-Très bon mode d'emploi pour s'assurer de faire diminuer la perte, une complication à la fois / debugger ses modèles. [Accessible en ligne](http://karpathy.github.io/2019/04/25/recipe/)
+Mode d'emploi pour s'assurer de faire diminuer la perte, une complication à la fois / debugger ses modèles. [Accessible en ligne](http://karpathy.github.io/2019/04/25/recipe/)
 
 - 'Neural networks, manifolds and topology' (blog post, 2014) d'Olah
 
