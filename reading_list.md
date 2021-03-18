@@ -7,7 +7,7 @@ Auteur : Jérémy L'Hour, <jeremy.lhour@insee.fr>.
 ## Python
 - 'Automate the boring stuff with python' (2nd Edition, 2019) de Sweigart
 
-Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme traiter des images, gérer la lecture de fichier, gérer les tableurs, scraper des données sur internet, envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible gratuitement en ligne](https://automatetheboringstuff.com/)
+Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bases, mais aussi des choses plus originales comme traiter des images, gérer la lecture de fichiers, gérer des tableurs, récupérer des données sur internet, envoyer des e-mails, programmer des tâches à des heures précises, etc. [Accessible gratuitement en ligne](https://automatetheboringstuff.com/)
 
 - 'Beyond the basic stuff with python' (2020) de Sweigart
 
@@ -23,7 +23,7 @@ Manuel de référence pour toutes les approches de machine learning "traditionne
 ## Apprentissage profond
 - 'Deep Learning' (2016) de Goodfellow, Bengio et Courville
 
-Livre de référence sur l'approche Deep Learning, couvre beaucoup de sujets classiques mais aussi des sujets avancés et l'état de la recherche. [Accessible gratuitement en ligne](https://www.deeplearningbook.org/)
+Livre de référence sur l'approche deep learning, couvre beaucoup de sujets classiques mais aussi des sujets avancés et l'état de la recherche de l'époque. [Accessible gratuitement en ligne](https://www.deeplearningbook.org/)
 
 - 'A recipe for training neural network' (blog post, 2019) de Karpathy
 
@@ -40,7 +40,7 @@ Manuel de référence sur le NLP. Couvre beaucoup de tâches importantes en anal
 
 - 'Stanford CS 224N : Natural Language Processing with Deep Learning' (cours)
  
-Ce cours couvre beaucoup de thèmes intéressants en NLP et propose des devoirs-maison à réaliser en python. [Cours accessible en ligne](http://web.stanford.edu/class/cs224n/)
+Ce cours couvre beaucoup de thèmes intéressants en NLP et propose des devoirs à réaliser en python. [Cours accessible en ligne](http://web.stanford.edu/class/cs224n/)
 
 - 'Deep learning for NLP: best practices' (blog post, 2017) de Ruder
 
