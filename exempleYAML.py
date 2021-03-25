@@ -33,9 +33,9 @@ def fonction_exemple(methode):
 
 
 if __name__ == '__main__':
-    config_file = os.path.join(os.getcwd(),'exempleConfigYAML.yml')
-    print(os.getcwd())
-    with open(config_file, 'r') as stream:
+    config_file = os.path.join(os.getcwd(),'exempleConfigYAML.yml') # chemin du fichier de configuration
+
+    with open(config_file, 'r') as stream: # ouverture
         config = yaml.safe_load(stream)
-    
-    fonction_exemple(methode = config['methode'])
+
+    fonction_exemple(methode = config['methode']) # appel à la fonction avec la méthode demandée
