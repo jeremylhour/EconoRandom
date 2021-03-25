@@ -21,11 +21,15 @@ def fonction_exemple(methode):
     methodes_possibles = ['methode1', 'methode2']
     if not methode in methodes_possibles:
         print(f'Aucune methode {methode}')
+        return None
     
     if methode == 'methode1':
         print('Vous avez choisi la méthode 1.')
+        return None
+    
     elif methode == 'methode2':
         print('vous avez choisi la méthode 2.')
+        return None
 
 
 if __name__ == '__main__':
