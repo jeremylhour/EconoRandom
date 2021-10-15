@@ -33,6 +33,12 @@ Mode d'emploi pour s'assurer de faire diminuer la perte, une complication à la 
 
 Réflexions utiles sur le fonctionnement des réseaux de neurones "en théorie". [Accessible en ligne](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
+## Apprentissage par renforcement
+
+- 'Reinforcement Learning: An Introduction' (2018) de Sutton et Barto
+
+Manuel de référence pour le reinforcement learning. [Accessible en ligne](http://incompleteideas.net/book/the-book.html)
+
 ## Traitement du langage naturel
 - 'Speech and Language Processing' (3rd Edition, 2021?) de Jurasfky et Martin
 
