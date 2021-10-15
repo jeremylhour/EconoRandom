@@ -13,6 +13,11 @@ Livre d'introduction à python, très bien expliqué. Permet d'apprendre les bas
 
 Même auteur que le précédent, mais plus avancé. Avec notamment des chapitres sur la programmation orientée objet, l'utilisation de git, les conventions d'écriture du code, l'analyse de la complexité des algorithmes.
 
+- 'PEP 8 : Style Guide for Python Code'
+
+Guide officiel pour écrire du code python. [Accessible en ligne](https://www.python.org/dev/peps/pep-0008/).
+
+
 ## Apprentissage profond / Deep learning
 - 'Deep Learning' (2016) de Goodfellow, Bengio et Courville
 
