@@ -23,6 +23,10 @@ Guide officiel pour écrire du code python. [Accessible en ligne](https://www.py
 
 Livre de référence sur l'approche deep learning, couvre beaucoup de sujets classiques mais aussi des sujets avancés et l'état de la recherche de l'époque. [Accessible gratuitement en ligne](https://www.deeplearningbook.org/)
 
+- 'A selective overview of deep learning' (2019) de Fan, Ma et Zhong
+
+Article qui traite des réseaux de neurones d'un point de vue statistique. [Accessible en ligne](https://arxiv.org/abs/1904.05526).
+
 - 'A recipe for training neural network' (blog post, 2019) de Karpathy
 
 Mode d'emploi pour s'assurer de faire diminuer la perte, une complication à la fois / debugger ses modèles. [Accessible en ligne](http://karpathy.github.io/2019/04/25/recipe/)
@@ -79,9 +83,9 @@ Poycopié du cours correspondant à Stanford. Couvre notamment les A/B tests, le
 
 Introduction à l'utilité des méthodes de ML en économétrie/économie empirique. S'adresse particulièrement aux économistes empiriques peu au courant des méthodes de ML. Mais offre également une perspective sur l'utilisation des méthodes de ML pour des tâches classiques en économétrie. [Accessible sur ArXiv](https://arxiv.org/abs/1903.10075)
 
-- 'Machine Learning for Econometrics' (2021?) de L'Hour et Gaillac
+- 'Machine Learning for Econometrics' (2022?) de L'Hour et Gaillac
 
-Polycopié du cours de 3A ENSAE, développe les thèmes du papier précédent. [Polycopié accessible en ligne](https://sites.google.com/site/jeremylhour/courses)
+Polycopié du cours de 3A ENSAE, développe les thèmes du papier précédent. [Polycopié accessible en ligne](https://sites.google.com/site/jeremylhour/courses). Manuel en français à venir.
 
 
 ## Conception de projets machine learning / data
